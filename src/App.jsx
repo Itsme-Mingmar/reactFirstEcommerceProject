@@ -1,8 +1,8 @@
-
+import Homepage from "./pages/Homepage"
 function App() {
   return (
     <>
-      <p>Hello Everyone</p>
+      < Homepage />
     </>
   )
 }
